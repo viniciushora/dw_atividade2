@@ -1,0 +1,80 @@
+body{
+    background-color: #404040;
+    font-family: sans-serif;
+    color: white;
+    margin-bottom: 3%;
+}
+
+header {
+    background-color: #232323;
+    text-align: center;
+}
+
+.corpo {
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.sessao {
+    background-color: #232323;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-top:2%;
+}
+
+.sessao h2{
+    font-size: 160%;
+}
+
+.sessao p{
+    text-align: justify;
+    color: gray;
+}
+
+.meio {
+    margin-left:25%;
+    margin-right:25%;
+    padding-bottom:1%;
+}
+
+.sessao img {
+    width: 30%;
+    margin-bottom: 2%;
+}
+
+.minisessao {
+    background-color: #191919;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    padding-top:2%;
+    margin-left:2%;
+}
+
+.minisessao h2{
+    font-size: 120%;
+}
+
+.minisessao img {
+    margin-top:4%;
+    width: 70px;
+    height: 100px;
+}
+
+.minisessao ul {
+    text-align: left;
+    padding-left: 15%;
+    margin-top:10%;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+}
+
+input[type=text]{
+    width: 50%;
+}
